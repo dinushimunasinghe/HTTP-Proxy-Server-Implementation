@@ -1,0 +1,12 @@
+{
+  "name": "node-proxy",
+  "private": true,
+  "scripts": {
+    "start": "node proxy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "http-proxy": "^1.18.1",
+    "chalk": "^4.1.2"
+  }
+}
